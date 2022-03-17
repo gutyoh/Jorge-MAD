@@ -1,4 +1,4 @@
-El programa es sencillo, lo que hace es tomar una ruta que se pasa por la linea de comando y el programa buscara los archivos duplicados que esten dentro del mismo.
+El programa MAD (Manejador de Archivos Duplicados) es sencillo, lo que hace es tomar una ruta que se pasa por la linea de comando y el programa buscara los archivos duplicados que esten dentro del mismo.
 
 Para poder usar el programa facilmente esta la carpeta _**root_folder**_, esta contiene una cantidad de archivos "boilerplate" con los que se puede probar el programa.
 
