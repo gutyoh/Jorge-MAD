@@ -9,7 +9,7 @@ Como usar en `Python`:
 $ python main.py root_folder
 
 Enter file format:
-
+  # dejar vacio para buscar TODOS los archivos solamente apretar ENTER en este punto == a '\n'
 
 Size sorting options:
 1. Descending
