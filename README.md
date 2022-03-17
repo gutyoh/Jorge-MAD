@@ -86,7 +86,7 @@ En caso que querramos revisar archivos con extensión ESPECIFICA solo debemos pa
 # Para revisar TODOS LOS ARCHIVOS en el directorio:
 
 Enter file format:
-  # dejar vacio! solamente apretar enter en este punto, equivalente a '\n'
+  # dejar vacio! solamente apretar ENTER en este punto, equivalente a '\n'
 ...
 
 # Para revisar csv:
