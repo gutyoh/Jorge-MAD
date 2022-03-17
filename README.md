@@ -83,6 +83,12 @@ ______
 En caso que querramos revisar archivos con extensión ESPECIFICA solo debemos pasar la extensíon sin el `.` punto por delante:
 
 ```
+# Para revisar TODOS LOS ARCHIVOS en el directorio:
+
+Enter file format:
+  # dejar vacio! solamente apretar enter en este punto, equivalente a '\n'
+...
+
 # Para revisar csv:
 
 Enter file format:
